@@ -6,9 +6,7 @@ The project helps users plan their travels, save favorite destinations, and visu
 ---
 
 ## 🔗 Live Website  
-👉 [Visit the website](https://vygodinaola-sys.github.io/HomePage/)  
-
-*(current link for GitHub Pages)*
+👉 [Visit the website](https://vygodinaola-sys.github.io/My-Travel-Map/)  
 
 ---
 
