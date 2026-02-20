@@ -47,16 +47,25 @@ The project aims to simplify travel planning and management of personal destinat
 
 ---
 
-### 3️⃣ Destination Details Page – Destination Info
-- City name and country  
-- Large city image  
-- Buttons:
-  - “Add to visited destinations”  
-  - “Add to favorites”  
-- Option to upload personal photos *(using LocalStorage)*  
+### 3️⃣ Destination Details Page – Destination Guide
+- Full-page hero with city name and country  
+- Large background image of the city  
+- Action buttons:
+  - **Mark as Visited**  
+  - **Add to Favorites**
+- About section:
+  - Detailed description of the destination  
+  - Inline gallery of notable landmarks
+- Sidebar:
+  - **Fast Facts**: language, currency, transport, etc.  
+  - **My Travel Journal**:
+    - Upload personal photos  
+    - Add experience: name, rating, title, description, tips  
+    - Submit reviews stored and displayed on the map popup
+- Fully interactive with LocalStorage to store visited/favorite destinations and user content  
 
-🛠️ **Planned / Partially Implemented**  
-*(pages: Paris, Rome, London, Barcelona)*
+✅ **Implemented**  
+*(Pages include: Barcelona, London, New York, Paris, Rome, Tokyo)*
 
 ---
 
